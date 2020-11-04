@@ -1,0 +1,1 @@
+For Project 1 I would like to build a simple game of tetris. I plan to approach this in the most simple way possible with the basic building blocks I will need and nothing special. All blocks will be the same color, simple shapes, and no sound effects. This will be a one user game that operates on a loop.
